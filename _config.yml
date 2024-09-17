@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Akshat Dubey.jpeg"
+  avatar           : "Akshat Dubey.jpg"
   name             : "Akshat Dubey"
   pronouns         : # example: "she/her"  
   bio              : "A Research Associate at the Robert Koch Institute in Berlin and a Doctoral Student in Computer Science at Freie Universität Berlin."
